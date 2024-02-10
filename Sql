@@ -1,0 +1,1 @@
+slect * from table_name
